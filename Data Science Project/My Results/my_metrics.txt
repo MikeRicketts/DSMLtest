@@ -1,4 +1,0 @@
-Mean Squared Error: 0.23364783855059126
-Mean Absolute Error: 0.3047139171511629
-R2 Score: 0.8216985365406749
-Best Ridge Parameters: {'alpha': 100}
