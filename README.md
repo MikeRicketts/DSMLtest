@@ -1,4 +1,4 @@
-# Housing Price Prediction Python Final Project
+# Housing Price Prediction Python Project
 
 ## Overview
 The purpose of this project is to develop a predictive model to estimate median house values.
